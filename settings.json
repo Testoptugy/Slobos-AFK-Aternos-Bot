@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LRGAMERZ.aternos.me",
-    "port": 24799,
-    "version": "26.1.2",
+    "ip": "LOGPIE-SMP.aternos.me",
+    "port": 22144,
+    "version": "1.26.20.5",
     "try-creative": false
   },
   "position": {
