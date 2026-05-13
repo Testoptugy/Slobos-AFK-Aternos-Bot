@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "LOGPIE-SMP.aternos.me",
-    "port": 22144,
+    "port": 22143,
     "version": "1.26.20.4",
     "try-creative": false
   },
