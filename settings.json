@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LOGPIE-SMP.aernos.me",
+    "ip": "LOGPIE-SMP.aternos.me",
     "port": 22144,
     "version": "1.21.1",
     "try-creative": false
